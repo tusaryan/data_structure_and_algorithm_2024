@@ -5,15 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fc1fa82-ddec-4089-a5e1-d8ff83859a98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking/ratInAMaze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object_oriented_programming/classes_and_objects/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object_oriented_programming/classes_and_objects/StudentUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object_oriented_programming/Exception/Fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object_oriented_programming/Exception/FractionUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object_oriented_programming/Exception/ZeroDenominatorException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object_oriented_programming/generics/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object_oriented_programming/generics/PairUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object_oriented_programming/generics/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object_oriented_programming/generics/PrintInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object_oriented_programming/generics/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object_oriented_programming/interfaces/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object_oriented_programming/interfaces/CarInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object_oriented_programming/interfaces/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object_oriented_programming/interfaces/Vehicle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object_oriented_programming/interfaces/VehicleInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object_oriented_programming/temp/StudentUse2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object_oriented_programming/vehicle/DynamicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/object_oriented_programming/vehicle/Polynomial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722789948585</updated>
       <workItem from="1722789949561" duration="107000" />
-      <workItem from="1722790061997" duration="642000" />
+      <workItem from="1722790061997" duration="1573000" />
     </task>
     <servers />
   </component>
