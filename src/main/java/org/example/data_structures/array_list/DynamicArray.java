@@ -1,4 +1,4 @@
-package org.example.object_oriented_programming;
+package org.example.data_structures.array_list;
 
 public class DynamicArray {
     private int[] data;
