@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fc1fa82-ddec-4089-a5e1-d8ff83859a98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking/NQueens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4fc1fa82-ddec-4089-a5e1-d8ff83859a98" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +99,7 @@
       <workItem from="1722789949561" duration="107000" />
       <workItem from="1722790061997" duration="8757000" />
       <workItem from="1722854111995" duration="721000" />
-      <workItem from="1722860190175" duration="2574000" />
+      <workItem from="1722860190175" duration="2969000" />
     </task>
     <servers />
   </component>
