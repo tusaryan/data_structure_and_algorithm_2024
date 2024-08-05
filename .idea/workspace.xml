@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fc1fa82-ddec-4089-a5e1-d8ff83859a98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking/RatCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking/NQueens.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/backtracking/ratInAMaze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/backtracking/RatInAMaze.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "tusaryan"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tusaryan&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:/tusaryan/data_structure_and_algorithm_2024.git",
-    "accountId": "ad6a994d-a294-4cdc-a877-eecbaaead8be"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://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@github.com/tusaryan/data_structure_and_algorithm_2024.git&quot;,
+    &quot;accountId&quot;: &quot;ad6a994d-a294-4cdc-a877-eecbaaead8be&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -49,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.NQueens.executor": "Run",
     "Application.RatCheck.executor": "Run",
     "Application.RatInAMaze.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -63,6 +63,26 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.backtracking.NQueens" />
+      <module name="data_structure_and_algorithm_2024" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NQueens" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,7 +100,9 @@
       <option name="presentableId" value="Default" />
       <updated>1722789948585</updated>
       <workItem from="1722789949561" duration="107000" />
-      <workItem from="1722790061997" duration="8030000" />
+      <workItem from="1722790061997" duration="8757000" />
+      <workItem from="1722854111995" duration="721000" />
+      <workItem from="1722860190175" duration="2574000" />
     </task>
     <servers />
   </component>
